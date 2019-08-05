@@ -168,7 +168,7 @@ SEE [Mission Model Report](https://github.com/guardsight/gsvsoc_mission-model)
 ##### Coordination, Sharing &amp; Notifications
 ###### Internal
 
-The ISO shall be responsible for coordinating and sharing details of and incident to internal authorized Personnel, without undue delay on a need to know basis, when the ISO deems that sharing is beneficial to response activities and per the organization's data classification policies.
+The ISO shall be responsible for coordinating and sharing details of an incident to internal authorized Personnel, without undue delay on a need to know basis, when the ISO deems that sharing is beneficial to response activities and per the organization's data classification policies.
 
 ###### Individuals, Customers & Data Subject Notifications (EU GDPR 34)
 
