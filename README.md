@@ -246,11 +246,8 @@ The ISO shall be responsible for coordinating and sharing the relevant details o
 
 ##### Collect
 
-**IMPORTANT - Keep a system POWERED ON prior to the collection of volatile media**
-(isolate the host from the network)
-
-**IMPORTANT - Keep a system POWERED ON reserve valuable evidence**
-(isolate the host from the network)
+**IMPORTANT - Keep a system POWERED ON prior to the collection of volatile media to preserve valuable evidence**
+<br />(isolate the host by disconnecting its network connection or through the use of EDR)
 
 
 1. Journal collection activities 
