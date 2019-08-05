@@ -42,7 +42,7 @@ Regulation:
   \                         /           |           |  Event                               |
    \         Event         /            |           |                                      |
     -----------------------             |           |       -------------------------------|
-    \                    /              |           |       |   Alarm                      |
+    \                    /              |           |       |   Alert                      |
      \       Alert      /               |           |       |                              |
       ------------------                |           |       |          --------------------|
       \               /                 |           |       |          |   Incident        |
@@ -161,7 +161,7 @@ The ISO shall certify that assets impacted by a successful compromise are eligib
 
 ##### After Action Report
 
-The CSIRT shall produce an after-action report that provides the details of the incident. The CSIRT should produce content for the report iteratively during the response. The ISO shall approve all dissemination report.
+The CSIRT shall produce an after-action report that provides the details of the incident. The CSIRT should produce content for the report iteratively during the response. The ISO shall approve all dissemination of the report.
 
 SEE [Mission Model Report](https://github.com/guardsight/gsvsoc_mission-model)
 
