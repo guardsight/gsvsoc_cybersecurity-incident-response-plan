@@ -241,7 +241,7 @@ The ISO shall be responsible for coordinating and sharing the relevant details o
 4. Record behavioral attributes
 5. Make factual assertions backed by evidence
 6. Peer review observations and assertions with experienced personnel
-7. Mark email communication contains "CONFIDENTIAL//ATTORNEY-CLIENT PRIVILEGE//TLP:AMBER" labels
+7. Mark email communication with "CONFIDENTIAL//ATTORNEY-CLIENT PRIVILEGE//TLP:AMBER" labels
 8. Use encryption or an alternative band of communication if the material is extremely sensitive
 
 ##### Collect
