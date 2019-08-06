@@ -76,11 +76,11 @@ The word incident and the term event of critical interest are synonymous and use
 
 An incident is an event or alert that signifies a security control failure, or a violation, or imminent threat of violation of computer security policies, acceptable use policies, or standard security practices that require critical triage and a more in-depth investigation known as ***incident response***.
 
-During disciplined cybersecurity operations, including investigating and analyzing alerts, it is common for information security professionals to label the resulting analysis in terms of risk of compromise. An incident, or event of critical interest, is an analysis that results in a declaration of ***real or imminent danger and significant risk of asset compromise** or confirmation thereof. 
+During disciplined cybersecurity operations, including investigating and analyzing alerts, it is common for information security professionals to label the resulting analysis in terms of risk of compromise. An incident, or event of critical interest, is an analysis that results in a declaration of ***real or imminent danger and significant risk of asset compromise*** or confirmation thereof. 
 
 As an example, take two classes of typical cybersecurity events: “Potentially Unwanted Program” and “Ransomware.” The latter, Ransomware, represents an event of critical interest because its progression through the environment represents real and imminent danger and could result in a significant risk of compromise to critical assets. 
 
-Another example may be an individual receiving a phishing email and realizing that it has attached malware, is in of itself NOT an incident (detective controls worked). However, an individual downloading that attached malware IS possibly an incident (preventative or corrective controls did not work) dependent on subsequent control failures (defense-in-depth failures) or ***real or imminent danger and significant risk of asset compromise** or confirmation thereof.
+Another example may be an individual receiving a phishing email and realizing that it has attached malware, is in of itself NOT an incident (detective controls worked). However, an individual downloading that attached malware IS possibly an incident (preventative or corrective controls did not work) dependent on subsequent control failures (defense-in-depth failures) or ***real or imminent danger and significant risk of asset compromise*** or confirmation thereof.
 
 ----
 
