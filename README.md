@@ -82,6 +82,8 @@ As an example, take two classes of typical cybersecurity events: “Potentially 
 
 Another example may be an individual receiving a phishing email and realizing that it has attached malware, is in of itself NOT an incident (detective controls worked). However, an individual downloading that attached malware IS possibly an incident (preventative or corrective controls did not work) dependent on subsequent control failures (defense-in-depth failures) or ***real or imminent danger and significant risk of asset compromise*** or confirmation thereof.
 
+An analogy in the natural world might be the comparison of a misdemeanor vehicular moving violation to a felony bank robbery. The latter would be considered an incident.
+
 ----
 
 ### Instruction
