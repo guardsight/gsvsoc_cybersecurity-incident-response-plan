@@ -233,6 +233,7 @@ The ISO shall be responsible for coordinating and sharing the relevant details o
 
 **IMPORTANT - When possible encrypt communication - threat actors may be listening to the channel**
 
+
 1. Make notes of actions you took during the assessment phase
    1. What you do, see, and hear will be used by investigators, after action reporting, and maintained for posterity purposes
 2. Record times
@@ -270,6 +271,7 @@ The ISO shall be responsible for coordinating and sharing the relevant details o
 
 **CONTAINMENT IS THE MOST IMPORTANT COA DURING INCIDENT RESPONSE**
 
+
 1. Create a list of COA based on the nature of the threat
 2. Use the OODA loop method as guidance for COA
 3. Organize the COA by using the mnemonic: ***Inventory + 6-Ds***
@@ -298,6 +300,7 @@ The ISO shall be responsible for coordinating and sharing the relevant details o
 ----
 
 #### Eradicate / Remediate
+
 1. Inspect the asset to ensure the threat has been fully eradicated
 2. Remediate all known vulnerabilities
 3. Apply controls to prevent further intrusion
@@ -307,6 +310,7 @@ The ISO shall be responsible for coordinating and sharing the relevant details o
 #### Recover / Restore
 
 **IMPORTANT - Restore only after remediation activities have prevented the assets from further risk of intrusion**
+
 
 1. Restore to a normal state 
     1. Recovery point objective (RPO)
@@ -334,6 +338,7 @@ SEE [Mission Model Report](https://github.com/guardsight/gsvsoc_mission-model)
 3. Disseminate the report
 
 #### Notify External Entities
+
 1. Individuals, Customers, & Data Subjects
 2. Data Controllers
 3. Supervisory Authorities
@@ -343,6 +348,7 @@ SEE [Mission Model Report](https://github.com/guardsight/gsvsoc_mission-model)
 7. The Media
 
 #### Engage 3rd Party Service Providers
+
 1. [Cybersecurity-as-a-Service Providers](https://www.guardsight.com)
 2. [Incident Response Partners](https://www.guardsight.com)
 3. Legal Counsel
