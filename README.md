@@ -74,15 +74,15 @@ An alert is an event having a security context usually generated from threat det
 ##### Incident #####
 The word incident and the term event of critical interest are synonymous and used interchangeably herein.
 
-An incident is an event or alert that signifies a security control failure, or a violation, or imminent threat of violation of computer security policies, acceptable use policies, or standard security practices that require critical triage and a more in-depth investigation known as ***incident response***.
+An incident is an event or alert that signifies a security control failure, or a violation, or imminent threat of violation of computer security policies, acceptable use policies, or standard security practices that require critical triage and a more in-depth investigation known as **incident response**.
 
-During disciplined cybersecurity operations, including investigating and analyzing alerts, it is common for information security professionals to label the resulting analysis in terms of risk of compromise. An incident, or event of critical interest, is an analysis that results in a declaration of ***real or imminent danger and significant risk of asset compromise*** or confirmation thereof. 
+During disciplined cybersecurity operations, including investigating and analyzing alerts, it is common for information security professionals to label the resulting analysis in terms of risk of compromise. An incident, or event of critical interest, is an analysis that results in a declaration of **real or imminent danger and significant risk of asset compromise** or confirmation thereof. 
 
-As an example, take two classes of typical cybersecurity events: '**potentially unwanted program**' and '**ransomware**' The latter, ransomware, represents an event of critical interest because its progression through the environment represents real and imminent danger and could result in a significant risk of compromise to critical assets. 
+As an example, take two classes of typical cybersecurity events: *potentially unwanted program* and *ransomware* The latter, ransomware, represents an event of critical interest because its progression through the environment represents real and imminent danger and could result in a significant risk of compromise to critical assets. 
 
-Another example may be an individual receiving a '**phishing email**' and realizing that it has attached malware, is in of itself NOT an incident (detective controls worked). However, an individual downloading that attached malware IS possibly an incident (preventative or corrective controls did not work) dependent on subsequent control failures (defense-in-depth failures) or ***real or imminent danger and significant risk of asset compromise*** or confirmation thereof.
+Another example may be an individual receiving a *phishing email* and realizing that it has attached malware, is in of itself NOT an incident (detective controls worked). However, an individual downloading that attached malware IS possibly an incident (preventative or corrective controls did not work) dependent on subsequent control failures (defense-in-depth failures) or **real or imminent danger and significant risk of asset compromise** or confirmation thereof.
 
-An analogy in the natural world might be the comparison of a misdemeanor '**vehicular moving violation**' to a felony '**armed robbery**'. The latter, armed robbery, would be considered an incident.
+An analogy in the natural world might be the comparison of a misdemeanor *vehicular moving violation* to a felony *armed robbery*. The latter, armed robbery, would be considered an incident.
 
 ----
 
@@ -147,7 +147,7 @@ Severity rating levels shall be used to determine the necessary force and resour
 
 The CSIRT and ISO shall use qualified Information Security Personnel, and cyber weapons, and security controls capable of defending and preventing adversaries from using specific tactics, techniques, and procedures as described by the [MITRE ATT&CK Framework](https://attack.mitre.org/tactics/enterprise/).
 
-SEE the **NOTES** section for TTP examplesl including ***Protecting Against Ransomware*** and ***Protecting Against Phishing***
+SEE the **NOTES** section for TTP examplesl including **Protecting Against Ransomware** and **Protecting Against Phishing**
 
 ##### Log Retention
 
@@ -232,8 +232,8 @@ The ISO shall be responsible for coordinating and sharing the relevant details o
 5. Ask asset owners what they know in terms of Indicators Of Compromise (IOC) and record the results
     1. SEE Top Indicators of Compromise (TOP-IOC) below for hints
     2. SEE [MITRE ATT&CK Framework](https://attack.mitre.org/tactics/enterprise/) for hints
-6. Ask asset owners ***"Was there a loss of data?"*** and record the results
-7. Ask asset owners ***"Was restricted data at risk?"*** and record the results
+6. Ask asset owners **"Was there a loss of data?"** and record the results
+7. Ask asset owners **"Was restricted data at risk?"** and record the results
 8. Assign a severity rating
     1. SEE [NCCIC CISS Severity Rating Model](https://www.us-cert.gov/NCCIC-Cyber-Incident-Scoring-System)
 
@@ -282,7 +282,7 @@ The ISO shall be responsible for coordinating and sharing the relevant details o
 
 1. Create a list of COA based on the nature of the threat
 2. Use the OODA loop method as guidance for COA
-3. Organize the COA by using the mnemonic: ***Inventory + 6-Ds***
+3. Organize the COA by using the mnemonic: **Inventory + 6-Ds**
     1. Inventory
     2. Detect
     3. Deny
@@ -297,10 +297,10 @@ The ISO shall be responsible for coordinating and sharing the relevant details o
     4. Consider collateral damage
     5. Align with policies
     6. Respect the law
-5. Use the properly maintained cyber weapons to fortify the ***Inventory + 6-Ds***
+5. Use the properly maintained cyber weapons to fortify the **Inventory + 6-Ds**
 6. Apply defensive and offensive force concentration tactics
-    1. *NOTE: Force concentration does not guarantee relief from a flank of routine threat activity: ***watch the wire!***
-    2. *NOTE: Force concentration is useless if containment assets are idle: ***assign COA & put weapons to use***
+    1. *NOTE: Force concentration does not guarantee relief from a flank of routine threat activity: **watch the wire!**
+    2. *NOTE: Force concentration is useless if containment assets are idle: **assign COA & put weapons to use**
 7. Manage fatigue to avoid defective decision making and maintain consistent pressure on the adversary
 8. Avoid decision avoidance, solve the problem, embrace the challenge, and be fast-acting
 9. Get in the fight and regain control of the impacted assets!
