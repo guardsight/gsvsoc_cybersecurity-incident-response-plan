@@ -331,7 +331,7 @@ The ISO shall be responsible for coordinating and sharing the relevant details o
 1. Develop OFI as gaps are discovered during the response
 2. Record the OFI in the after-action report
 
-#### Produce After-Action Report
+#### After-Action Report
 
 SEE [Mission Model Report](https://github.com/guardsight/gsvsoc_mission-model)
 
