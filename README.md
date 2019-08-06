@@ -289,7 +289,7 @@ The ISO shall be responsible for coordinating and sharing the relevant details o
     4. Consider collateral damage
     5. Align with policies
     6. Respect the law
-5. Use the ***at the ready cyber weapons*** to fortify the ***Inventory + 6-Ds***
+5. Use the properly maintained cyber weapons to fortify the ***Inventory + 6-Ds***
 6. Apply defensive and offensive force concentration tactics
     1. *NOTE: Force concentration does not guarantee relief from a flank of routine threat activity: ***watch the wire!***
     2. *NOTE: Force concentration is useless if containment assets are idle: ***assign COA & put weapons to use***
