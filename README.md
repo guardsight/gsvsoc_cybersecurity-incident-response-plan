@@ -172,7 +172,7 @@ The ISO shall be responsible for coordinating and sharing details of an incident
 
 ###### Individuals, Customers & Data Subject Notifications (EU GDPR 34)
 
-The ISO shall be responsible for coordinating and delivering notifications, without undue delay, to individuals, customers, and data subjects for the purposes of complying with statutes, regulation, or ordinances if the ISO determines the incident is likely to result in an infringement of, or high risk to, the rights and freedoms of those individuals, customers, and data subjects that have been impacted by the compromised assets.
+The ISO shall be responsible for coordinating and delivering notifications, without undue delay, to individuals, customers, and data subjects for the purposes of complying with statutes, regulations, or ordinances if the ISO determines the incident is likely to result in an infringement of, or high risk to, the rights and freedoms of those individuals, customers, and data subjects that have been impacted by the compromised assets.
 
 ###### Controller &amp; Supervisory Authority Notifications (EU GDPR 33)
 
@@ -259,8 +259,6 @@ The ISO shall be responsible for coordinating and sharing the relevant details o
 
 ##### Store
 
-SEE [NIST Special Publication 800-66](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-86.pdf) 
-
 1. Follow a consistent evidence process that achieves the objective of provenance
 2. Journal evidence activities
 3. Establish an evidence locker
@@ -270,17 +268,32 @@ SEE [NIST Special Publication 800-66](https://nvlpubs.nist.gov/nistpubs/Legacy/S
 
 #### Contain
 
-SEE [Mission Model Containment](https://github.com/guardsight/gsvsoc_mission-model)
+**CONTAINMENT IS THE MOST IMPORTANT COA DURING INCIDENT RESPONSE**
 
-***Think Inventory + 6 D's***
-
-1. Inventory
-2. Detect
-3. Deny
-4. Disrupt
-5. Degrade
-6. Deceive
-7. Destroy
+1. Create a list of COA based on the nature of the threat
+2. Use the OODA loop method as guidance for COA
+3. Organize the COA by using the mnemonic: ***Inventory + 6-Ds***
+    1. Inventory
+    2. Detect
+    3. Deny
+    4. Disrupt
+    5. Degrade
+    6. Deceive
+    7. Destroy
+4. Force rank COA based on strategies that:
+    1. Mitigate risk
+    2. Create an advantage for the responders
+    3. Preserve evidence
+    4. Consider collateral damage
+    5. Align with policies
+    6. Respect the law
+5. Use the ***at the ready cyber weapons*** to fortify the ***Inventory + 6-Ds***
+6. Apply defensive and offensive force concentration tactics
+    1. *NOTE: Force concentration does not guarantee relief from a flank of routine threat activity: ***watch the wire!***
+    2. *NOTE: Force concentration is useless if containment assets are idle: ***assign COA & put weapons to use***
+7. Manage fatigue to avoid defective decision making and maintain consistent pressure on the adversary
+8. Avoid decision avoidance, solve the problem, embrace the challenge, and be fast-acting
+9. Get in the fight and regain control of the impacted assets!
 
 ----
 
