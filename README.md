@@ -98,7 +98,7 @@ Implementers of this IRP use a **PICERL** model as guidance for organizing cours
 6. Lessons / Opportunities For Improvement
 
 
-Implementers of this IRP uses an **OODA** loop as guidance for conducting COA:
+Implementers of this IRP use an **OODA** loop as guidance for conducting COA:
 
 1. Observe
 2. Orient
