@@ -141,6 +141,8 @@ Severity rating levels shall be used to determine the necessary force and resour
 
 The CSIRT and ISO shall use qualified Information Security Personnel, and cyber weapons, and security controls capable of defending and preventing adversaries from using specific tactics, techniques, and procedures as described by the [MITRE ATT&CK Framework](https://attack.mitre.org/tactics/enterprise/).
 
+SEE the **NOTES** section for TTP examplesl including ***Protecting Against Ransomware*** and ***Protecting Against Phishing***
+
 ##### Log Retention
 
 The ISO shall be responsible for ensuring that log data transmitted by assets is properly preserved, protected, and maintained for a period of one (1) year.
@@ -390,14 +392,16 @@ SEE [Mission Model Report](https://github.com/guardsight/gsvsoc_mission-model)
 
 ## NOTES
 
-### Threat Analysis Model
+### TOP Indicators Of Compromise (TOP-IOC)
+
+#### Threat Analysis Model
 1. Analysts shall use a TAM similar to the TOP-IOC
 2. Analysts shall annotate cases using one or more TOP-IOC annotation statements
 3. All ticket annotation shall start with IOC-NEGATIVE -or- IOC-POSITIVE
 4. Evidence that intelligence assets were searched and analyzed is required
 5. Annotations should indicate the COA related to the specific activities conducted
 
-### TOP Indicators Of Compromise (TOP-IOC)
+#### General TOP-IOC
 1. Attack Surface Vulnerability Exists
 2. Corroboration From Multiple Intelligence Assets
 3. Unusual Egress Network Traffic
@@ -422,7 +426,7 @@ SEE [Mission Model Report](https://github.com/guardsight/gsvsoc_mission-model)
 22. Subsequent Activity By Attacker Address / GEO
 23. HTML Response Code Success
 
-### Top Insider Threat Indicators of Compromise
+#### Insider Threat TOP-IOC
 1. Logons To New Or Unusual Systems
 2. New Or Unusual Logon Session Types
 3. Unusual Time Of Day Activity
@@ -449,26 +453,7 @@ SEE [Mission Model Report](https://github.com/guardsight/gsvsoc_mission-model)
 24. Sensitive Table Access
 25. Sensitive Data Movement Combined With Other Risk Indicators
 
-### Protecting Against Ransomware
-1. Prioritize software updates for internet facing systems and systems having access to the internet
-2. Practice least privilege principles including role based access controls and access limitations
-3. Implement end point detection / host based intrusion technologies
-4. Maintain backups of mission critical data
-5. Educate the user community
-6. Create a response / MISSION plan and assign a strike force to execute that plan when it becomes necessary
-
-### Protecting Against Phishing
-1. Conduct security awareness training
-2. Conduct phishing simulation tests
-3. Deploy Application Whitelisting (AWL)
-4. Deploy Endpoint Detection and Response (EDR) technology
-5. Inspect outbound URLs
-6. Ensure user accounts do not execute with elevated (admin) privileges
-6. Use inbound email sandboxing 
-7. Deploy packet capture inspection technology with decryption capability
-8. Deploy HTTPS inspection technology that validates certificate chains
-
-### Top Observations For Network and Packet Analysis
+#### Network and Packet Analysis Observation TOP-IOC
 1. Known Signatures
 2. Reputation
 3. IP Addresses
@@ -482,7 +467,7 @@ SEE [Mission Model Report](https://github.com/guardsight/gsvsoc_mission-model)
 11. Masquerading Protocols
 12. Prohibited Protocols
 
-### Top Indicators Of A Suspicious Domain
+#### Suspicious Domain TOP-IOC
 1. Domain registered date is recent
 2. Domain registrant is anonymous or non-reputable
 3. Domain shares similar characteristics with prior known bad
@@ -491,7 +476,7 @@ SEE [Mission Model Report](https://github.com/guardsight/gsvsoc_mission-model)
 6. Domain has a disreputable history
 7. Domain has suspicious IP addresses / DNS data
 
-### Top Azure & Office 365 IOCs
+#### Azure & Office 365 TOP-IOC
 1. Privileged account logon from foreign address
 2. Creation of  accounts in Azure AD
 3. Traffic restriction loosened on Virtual Network
@@ -499,6 +484,28 @@ SEE [Mission Model Report](https://github.com/guardsight/gsvsoc_mission-model)
 5. Subscription Administrator added
 6. Windows level intrusion of VM
 7. High priority target's mailbox is accessed
+
+
+### Tactics, Techniques & Procedures
+
+#### Protecting Against Ransomware
+1. Prioritize software updates for internet facing systems and systems having access to the internet
+2. Practice least privilege principles including role based access controls and access limitations
+3. Implement end point detection / host based intrusion technologies
+4. Maintain backups of mission critical data
+5. Educate the user community
+6. Create a response / MISSION plan and assign a strike force to execute that plan when it becomes necessary
+
+#### Protecting Against Phishing
+1. Conduct security awareness training
+2. Conduct phishing simulation tests
+3. Deploy Application Whitelisting (AWL)
+4. Deploy Endpoint Detection and Response (EDR) technology
+5. Inspect outbound URLs
+6. Ensure user accounts do not execute with elevated (admin) privileges
+6. Use inbound email sandboxing 
+7. Deploy packet capture inspection technology with decryption capability
+8. Deploy HTTPS inspection technology that validates certificate chains
 
 
 ## SEE ALSO
