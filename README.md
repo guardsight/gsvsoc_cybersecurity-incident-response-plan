@@ -528,4 +528,3 @@ SEE [Mission Model Report](https://github.com/guardsight/gsvsoc_mission-model)
 
 GuardSight® is a registered trademark of GuardSight, Inc. All other products and company names mentioned herein are trademarks or registered trademarks of their respective owners. © GuardSight, Inc.
 
-
