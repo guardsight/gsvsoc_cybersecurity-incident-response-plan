@@ -141,7 +141,7 @@ The CSIRT shall routinely conduct inspections of the cybersecurity technology co
 This IRP uses the priority levels defined in the US National Cybersecurity and Communications Integration Center (NCCIC) Cyber Incident Scoring System (CISS) as the model for rating the severity of
 an Information Security Incident. SEE [NCCIC CISS Severity Rating Model](https://www.us-cert.gov/NCCIC-Cyber-Incident-Scoring-System)
 
-Severity rating levels shall be used to determine the necessary force and resource prioritization required to handle and respond to an incident. The CISRT is responsible for declaring the initial severity rating. The ISO is responsible confirming and adjusting security ratings that meet or exceed a High rating.
+Severity rating levels shall be used to determine the necessary force and resource prioritization required to handle and respond to an incident. The CSIRT is responsible for declaring the initial severity rating. The ISO is responsible confirming and adjusting security ratings that meet or exceed a High rating.
 
 ##### Tactics, Techniques & Procedures
 
