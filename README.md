@@ -167,7 +167,7 @@ The ISO shall maintain and protect evidence locker artifacts collected during an
 
 The ISO shall certify that assets impacted by a successful compromise are eligible for being restored to their normal operational state only after remediation activities have prevented the assets from further risk of intrusion.
 
-##### After Action Report
+##### After-Action Report
 
 The CSIRT shall produce an after-action report that provides the details of the incident. The CSIRT should produce content for the report iteratively during the response. The ISO shall approve all dissemination of the report.
 
@@ -243,7 +243,7 @@ The ISO shall be responsible for coordinating and sharing the relevant details o
 
 
 1. Make notes of actions you took during the assessment phase
-   1. What you do, see, and hear will be used by investigators, after action reporting, and maintained for posterity purposes
+   1. What you do, see, and hear will be used by investigators, after-action reporting, and maintained for posterity purposes
 2. Record times
 3. Communicate using 24HR/military time (e.g. 0900, 1330, 1845)
 4. Record atomic attributes
