@@ -147,7 +147,7 @@ Severity rating levels shall be used to determine the necessary force and resour
 
 The CSIRT and ISO shall use qualified Information Security Personnel, and cyber weapons, and security controls capable of defending and preventing adversaries from using specific tactics, techniques, and procedures as described by the [MITRE ATT&CK Framework](https://attack.mitre.org/tactics/enterprise/).
 
-SEE the **NOTES** section for TTP examplesl including **Protecting Against Ransomware** and **Protecting Against Phishing**
+SEE the **NOTES** section for TTP examples including **Protecting Against Ransomware** and **Protecting Against Phishing**
 
 ##### Log Retention
 
