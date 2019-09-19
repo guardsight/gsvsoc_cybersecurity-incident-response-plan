@@ -1,1 +1,1 @@
-pandoc README.md -o GSVSOC-IRPLAN.pdf "-fmarkdown-implicit_figures -o" --from=markdown -V geometry:margin=.75in --toc --toc-depth 5 --highlight-style=haddock
+pandoc README.md -o GSVSOC-IRPLAN.pdf  --from=markdown -V geometry:margin=.75in --toc --toc-depth 5 --highlight-style=haddock
