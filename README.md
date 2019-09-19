@@ -36,7 +36,7 @@ Regulation:
 
 #### Taxonomy ####
 
-<image src="gsvsoc-irplan.taxonomy.png" alt="Incident Response Plan Taxonomy">
+<image src="/images/gsvsoc-irplan.taxonomy.png" alt="Incident Response Plan Taxonomy">
 
 
 ##### Cybersecurity #####
