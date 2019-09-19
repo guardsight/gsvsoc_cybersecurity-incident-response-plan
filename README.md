@@ -36,7 +36,7 @@ Regulation:
 
 #### Taxonomy ####
 
-<image src="/images/gsvsoc-irplan.taxonomy.png" alt="Incident Response Plan Taxonomy">
+![](images/gsvsoc-irplan.taxonomy.png)
 
 
 ##### Cybersecurity #####
@@ -511,7 +511,7 @@ SEE [Mission Model Report](https://github.com/guardsight/gsvsoc_mission-model)
 
 ----
 
-<p align="center"><image src="/images/guardsight-logo.320-132.png" alt="GuardSight Logo"></p>
+<p align="center"><img src="/images/guardsight-logo.320-132.png" alt="GuardSight Logo" /></p>
 
 GuardSight® is a registered trademark of GuardSight, Inc. All other products and company names mentioned herein are trademarks or registered trademarks of their respective owners. © GuardSight, Inc.
 
