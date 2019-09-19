@@ -91,7 +91,7 @@ An analogy in the natural world might be the comparison of a misdemeanor *vehicu
 Implementers of this IRP use a **PICERL** model as guidance for organizing courses of action (COA):
 
 1. Preparation
-2. Idenification
+2. Identification
 3. Containment
 4. Eradication
 5. Recovery
@@ -104,13 +104,6 @@ Implementers of this IRP use an **OODA** loop as guidance for conducting COA:
 2. Orient
 3. Decide
 4. Act
-
-
-**CONTAINMENT IS THE MOST IMPORTANT COA DURING INCIDENT RESPONSE**
-
-
-SEE [https://github.com/guardsight/gsvsoc_mission-model](https://github.com/guardsight/gsvsoc_mission-model)
-
 
 
 #### Preparation
@@ -485,7 +478,7 @@ SEE [Mission Model Report](https://github.com/guardsight/gsvsoc_mission-model)
 #### Azure & Office 365 TOP-IOC
 1. Privileged account logon from foreign address
 2. Creation of  accounts in Azure AD
-3. Traffic restriction loosened on Virtual Network
+3. Traffic restrictions loosened on Virtual Network
 4. Storage account accessed via stolen key from foreign address
 5. Subscription Administrator added
 6. Windows level intrusion of VM
