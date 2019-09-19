@@ -36,19 +36,7 @@ Regulation:
 
 #### Taxonomy ####
 
-```bash
-           Lifecycle                                                       Relationship
-  ===========================           |           ========================================
-  \                         /           |           |  Event                               |
-   \         Event         /            |           |                                      |
-    -----------------------             |           |       -------------------------------|
-    \                    /              |           |       |   Alert                      |
-     \       Alert      /               |           |       |                              |
-      ------------------                |           |       |          --------------------|
-      \               /                 |           |       |          |   Incident        |
-       \   Incident  /                  |           |       |          |                   |
-        =============                   |           ========================================
-```
+<image src="gsvsoc-irplan.taxonomy.png" alt="Incident Response Plan Taxonomy">
 
 
 ##### Cybersecurity #####
