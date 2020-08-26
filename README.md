@@ -395,9 +395,9 @@ SEE [Mission Model Report](https://github.com/guardsight/gsvsoc_mission-model)
 4. Unusual Ingress Network Traffic
 5. Anomalies In Privileged User Account Activity
 6. Geographical Irregularities
-7.  Log-In Anomalies
+7. Log-In Anomalies
 8. Volume Increase For Database Reads
-9. HTML Response Size Anomalies
+9. HTTP Response Size Anomalies
 10. Large Numbers Of Requests For The Same File
 11. Mismatched Port-Application Traffic
 12. Suspicious Registry Or System File Changes
@@ -411,7 +411,7 @@ SEE [Mission Model Report](https://github.com/guardsight/gsvsoc_mission-model)
 20. Suspicious Byte Counts
 21. Suspicious Domain Controller Activity
 22. Subsequent Activity By Attacker Address / GEO
-23. HTML Response Code Success
+23. HTTP Response Code Success
 
 #### Insider Threat TOP-IOC
 1. Logons To New Or Unusual Systems
